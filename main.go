@@ -120,9 +120,9 @@ func printLogo() {
 
 func printUsage() {
 	fmt.Println("Author:")
-	fmt.Println("  Name               Martín Martín")
-	fmt.Println("  LinkedIn:          https://www.linkedin.com/in/martinmarting/")
-	fmt.Println("  GitHub:            https://github.com/mmarting/resolvalid")
+	fmt.Println("  Name:               Martín Martín")
+	fmt.Println("  LinkedIn:           https://www.linkedin.com/in/martinmarting/")
+	fmt.Println("  GitHub:             https://github.com/mmarting/resolvalid")
 
 	fmt.Println("\nUsage:")
 	fmt.Println("  -o, --output        Output file for valid DNS servers (required)")
