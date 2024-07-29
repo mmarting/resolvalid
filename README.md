@@ -59,7 +59,7 @@ This tool was created as a project for learning Go, so don't expect a highly opt
 
 - vortexau: For inspiring me to write this tool after a few years of using their tool to validate my DNS server lists: [dnsvalidator](https://github.com/vortexau/dnsvalidator)
   
-- miek: For creating the Go DNS library I'm using in this tool: [dns](https://github.com/vortexau/dnsvalidator)
+- miek: For creating the Go DNS library I'm using in this tool: [dns](https://github.com/miekg/dns)
 
 ## Author
 
