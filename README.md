@@ -28,7 +28,7 @@ Resolvalid requires an output (-o) file name as the only mandatory parameter. Th
     -td, --test-domain: Domain used to test DNS servers (optional, default: randomly chosen from predefined domains).
     -t, --threads:      Number of concurrent threads (optional, default: 20).
     -to, --timeout:     Timeout for DNS queries (optional, default: 2s).
-    -s, --silent :      Suppress output to the screen (optional).
+    -s, --silent:       Suppress output to the screen (optional).
     -h, --help:         Display help information.
 
 ## Examples
@@ -66,6 +66,7 @@ This tool was created as a project for learning Go, so don't expect a highly opt
 **Martín Martín**
 
 [LinkedIn](https://www.linkedin.com/in/martinmarting/)
+[Twitter/X](https://x.com/mmrecon)
 
 ## License
 
