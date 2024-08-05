@@ -1,6 +1,6 @@
 # Resolvalid
 
-Resolvalid is a Go tool that will generate or validate a list of valid DNS servers.
+Resolvalid is a Go tool that will generate or validate a list of DNS servers, providing you with a file containing only valid DNS servers.
 
 ## Installation
 
