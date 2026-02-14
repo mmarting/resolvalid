@@ -121,6 +121,7 @@ func printLogo() {
 func printUsage() {
 	fmt.Println("Author:")
 	fmt.Println("  Name:               Martín Martín")
+	fmt.Println("  Website:            https://mmartin.me/")
 	fmt.Println("  LinkedIn:           https://www.linkedin.com/in/martinmarting/")
 	fmt.Println("  GitHub:             https://github.com/mmarting/resolvalid")
 
